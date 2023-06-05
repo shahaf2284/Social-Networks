@@ -1,9 +1,11 @@
 # Social-Networks
 Social-Networks using Wolfram Mathematica 
-subject in this in the course
+
 The course's goal :
   Introduction to social network analysis. The course deals with basic features of social networks, 
   algorithms for these networks and graph models for these networks.
+  
+subject in this in the course:
 
         ⁃ Unit 1: Introduction
         ⁃ Unit 2: Graph Background and Data sets
